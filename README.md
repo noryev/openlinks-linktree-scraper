@@ -27,6 +27,12 @@ Here is [an example of the data format that is returned](https://github.com/benk
 
 This repo is intended to be added to the Openlinks project in the form of a fillable form that can automatically scrape the links and input those scraped links into a Openlinks page
 
+## How to get this example to work- 
+
+Figure out how to run this example and then record it in here- 
+
+
+
 ## Credits
 
 I started this library off from this template: https://github.com/krasimir/webpack-library-starter
