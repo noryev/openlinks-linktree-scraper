@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkaiser/linktree-scraper.git"
+    "url": "git+https://github.com/benkaiser/linktree-scraper.git"
   },
   "keywords": [
     "linktree",
@@ -29,5 +29,9 @@
     "node-fetch": "^2.6.1",
     "ts-loader": "^9.2.3",
     "typescript": "^4.3.5"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
